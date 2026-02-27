@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shaluka</title>
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="images/falcon-svgrepo-com.svg">
+</head>
+
+<body class="bg-black min-vh-100 overflow-x-hidden p-3 ">
+
+    <img class="image-gradient" src="gradient.png" alt="gradient">
+    <div class="layer-blur"></div>
+
+
+    <div class="  header  col-12 row d-flex justify-content-center align-items-center">
+
+        <h1 class="fw-bold col-lg-8 col-4 text-white p-4 bg-transparent intro-text">Codixa</h1>
+
+        <nav class="col-8 col-lg-4 row bg-transparent intro-text">
+            <a href="#" class="col-3 fs-6 ">Home</a>
+            <a href="#" class="col-3 fs-6 ">About</a>
+            <a href="#" class="col-3 fs-6 " id="homeLink">Projects</a>
+            <a href="#contact" class="col-3 fs-6 ">Contacts</a>
+        </nav>
+
+
+    </div>
+    <div class="row p-4 p-lg-5">
+
+        <div class="col-12  col-lg-8">
+            <div class="col-12 glow-text">
+                <p class="fs-3 hello intro-text"><b>Hello!</b><br>&nbsp;&nbsp;&nbsp;&nbsp; I'm Shaluka.</p>
+                <p class="fs-1 sd intro-text"><b>Software Developer</b></p>
+            </div>
+        </div>
+
+        <div class="col-12 bg-danger col-lg-12">
+
+            <spline-viewer class="robot-3d col-12 col-lg-6 " url="https://prod.spline.design/1MFyFfho259f8JQZ/scene.splinecode"></spline-viewer>
+        </div>
+        <script type="module" src="https://unpkg.com/@splinetool/viewer@1.12.61/build/spline-viewer.js"></script>
+
+    </div>
+
+    <div class="row p-lg-5 p-3 skill-line intro-text">
+
+        <div class="col-3 text-center p-1 d1 ">
+            <div class=" bg-black d2 p-2 fs-6">HTML</div>
+        </div>
+        <div class="col-3 text-center p-1 d1">
+            <div class=" bg-black d2 p-2 fs-6">CSS</div>
+        </div>
+        <div class="col-3 text-center p-1 d1">
+            <div class=" bg-black d2 p-2 fs-6">Javascript</div>
+        </div>
+        <div class="col-3 text-center p-1 d1">
+            <div class=" bg-black d2 p-2 fs-6"> Java</div>
+        </div>
+        <!-- <div class="col-2 text-center">
+            ...
+        </div> -->
+        <!-- <div class="col-1">
+            ...
+        </div>
+        <div class="col-1">
+            ...
+        </div> -->
+
+    </div>
+
+    <div class="row p-lg-5 p-3 mt-5 mt-lg-3 intro-text">
+
+        <div class="col-12 col-lg-6 row ">
+
+            <div class="col-2">
+                <img class="col-12" src="images/computer-desktop-imac-svgrepo-com.svg" />
+            </div>
+
+            <div class="col-10 align-items-center d-flex">
+                <H4 class="uni-color">Website Development</H4>
+            </div>
+
+            <div class="col-2 mt-5">
+                <img class="col-12" src="images/mobile-development-coding-code-xcode-svgrepo-com.svg" />
+            </div>
+
+            <div class="col-10 align-items-center d-flex mt-5">
+                <H4 class="uni-color">App Development</H4>
+            </div>
+
+            <div class="col-2 mt-5">
+                <img class="col-12" src="images/web-hosting-svgrepo-com (1).svg" />
+            </div>
+
+            <div class="col-10 align-items-center mt-5 d-flex">
+                <H4 class="uni-color">Web Hosting</H4>
+            </div>
+
+        </div>
+
+        <div class="col-12 col-lg-6 mt-5 ">
+
+            <div class="col-12">
+                <h2 class="text-white">About Me</h2>
+                <h6 class="uni-color"> I started my journey into software development with a deep curiosity
+                    about how websites and applications work. Over time, that curiosity
+                    turned into passion. I enjoy building clean, modern, and user-friendly
+                    digital experiences that solve real-world problems.
+                </h6><br>
+            </div>
+
+            <div class=" row " id="contact">
+                <h2 class="text-white col-lg-4">Contacts:</h2><br>
+                <h6 class=" uni-color col-lg-3">Mobile: 0740434758&nbsp;
+                </h6>
+                <h6 class=" col-lg-3 uni-color">Email: Shalukaroshan
+                    76@gmail.com
+                </h6>
+
+                <h6 class=" uni-color col-lg-2">Address: Kahawala,Bingiriya
+                </h6>
+            </div>
+
+
+
+            <div class="col-lg-8 col-xl-5 col-6 row p-3 text-center">
+                <div class="col-lg-4 col-4 ">
+                    <div class=" iconline p-1">
+                        <div class="">
+                            <a href="https://www.instagram.com/____shaluka____?igsh=MWh1MjY2OHYxMml1bA%3D%3D&utm_source=qr">
+                                <img class=" w-100" src="images/instagram-svgrepo-com (1).svg" /></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-4 col ">
+                    <div class=" iconline p-1">
+                        <div class=" ">
+                            <a href="https://wa.me/94740434758">
+                                <img class=" w-100" src="images/whatsapp-svgrepo-com.svg" /></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-g-4 col-4 ">
+                    <div class=" iconline p-1">
+                        <div class="">
+                            <a href="https://www.facebook.com/share/1HQ5kNka4h/?mibextid=wwXIfr">
+                                <img class="w-100" src="images/facebook-svgrepo-com.svg" /></a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+    <script>
+        document.getElementById("homeLink").addEventListener("click", function(e) {
+            alert("Still under construction.😊");
+        });
+    </script>
+</body>
+
+</html>
