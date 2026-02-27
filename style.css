@@ -95,15 +95,15 @@ nav a:hover{
 .robot-3d{
     position: absolute;
     top: -20%;
-    left: 61%;
+    left: 50%;
     bottom: 100%;
     pointer-events: none;
 }
 
 @media (max-width: 1000px) {
     .robot-3d {
-        left: 30%;
-        top: -22%;
+        left: 2%;
+        top: -8%;
     }
 }
 
@@ -168,3 +168,4 @@ nav a:hover{
     box-shadow: 0 0 15px rgba(255,255,255,0.3);
     transition: 0.5s ease;
 }
+
