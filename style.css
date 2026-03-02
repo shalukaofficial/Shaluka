@@ -87,6 +87,11 @@ nav a:hover{
 .hello{
     color: #c9caca;
 }
+
+.zi{
+    z-index: 1000;
+}
+
 .sd{
     color: rgb(224, 220, 220);
 }
@@ -179,6 +184,7 @@ footer{
     color: #6600c5;
 
 }
+
 
 
 
